@@ -1,3 +1,3 @@
-Insertion  sort
-selection sort
-string
+Insertion  sort,
+selection sort,
+string.
